@@ -1,0 +1,36 @@
+
+body{
+
+    margin: 0;
+}
+.top-container{
+    
+    width: 200;
+    height: 200;
+
+   
+   display: inline-block;
+    background-color: aliceblue;
+    left: 400px;
+    position:fixed;
+
+}
+.mid-container{
+ 
+    width: 200;
+    height: 200;
+    display: inline-block;
+    background-color: beige;
+    position: relative;
+    right: 200px;
+
+}
+.bottom-container{
+    width: 200;
+    height: 200;
+    display: inline-block;
+    background-color: blueviolet;
+    position: static;
+    right: 200px;
+
+}
